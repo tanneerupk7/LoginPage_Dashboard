@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import hamburger from '/Users/apple/Desktop/Sim_Tech/Dashboard/Dashboard/src/assets/menu-burger.png';
-import logo from '/Users/apple/Desktop/Sim_Tech/Dashboard/Dashboard/src/assets/react.svg';
+import hamburger from '../assets/menu-burger.png';
+import logo from '../assets/react.svg';
 
 function Header() {
   // State to control the visibility of dropdowns

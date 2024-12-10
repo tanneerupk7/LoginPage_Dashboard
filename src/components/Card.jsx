@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '/Users/apple/Desktop/Sim_Tech/Dashboard/Dashboard/src/assets/react.svg';
+import logo from '../assets/react.svg';
 
 export default function Cards(props) {
   // Determine the color for percentage dynamically
